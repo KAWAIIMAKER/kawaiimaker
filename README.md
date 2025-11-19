@@ -1,6 +1,6 @@
 # VIDEO EDIT MANUAL for @mmu_badasemi
 <a href="https://www.youtube.com/watch?v=57j_HETJUHg"><img src="https://postfiles.pstatic.net/MjAyMDEyMDVfMjc4/MDAxNjA3MTU3NTUxMjMw.ZElT2N_t4K2wwF0tpKE5gBGw-5-U-urhjiug_xQBfCMg.76Rb6cZgDd5RHobBFr8XNXQ2banGleMcrLxMY4LF7g4g.PNG.badasemi/%EB%B0%94%EB%8B%A4%EC%84%B8%EB%AF%B8_%EC%8B%9C%EC%9E%91_%EB%B0%B0%EB%84%88.png?type=w773" width="800" height="600" ></a>
-> **Ver 250924.01** 
+> **Ver 251119.01** 
 
 > **Made by WOOJIN(우진,うじん)**
 > 
@@ -136,17 +136,6 @@ Save the offset for the f/x value you set. Use when you want to add the same eff
 [export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
 [import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
 
-## 00. Editor's study tips.
-<a herf="https://youtu.be/STD6YDL8Zj0?si=8XY2qc-CQ7PH7VVH"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGf5iUvPybj2SE_UH9lZzMefHwp0WdJ9d9fL09O-ezjf_NxmXMiu_hbkNuvJLWF9txouXFkSqd-QiDIpxUCVCY2HDfemsRdAEJxHb3Bp4xjdhOFCyikRXAsR5Ex2-8QRmQwQ-hHXDTcN_Z/s1600/eye_ganseihirou_book_man.png">
-Click this image
-according to video
-1. Sleep well. (up 7hours)
-2. Attention to class (important!!)
-3. When you write note, draw some pictures for pay effective study.
-4. Watch a note or listen podcast(like radio or youtube). during exercise time or remain time etc... 
-5. breaking time is very important. (40min study or work, 20min)
-6. ~~listen your favoric music regularly wwwwwwwwww (It relive my stress)~~
-
 ## ~~00. Editor's Junk box~~
 
 <a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
@@ -167,4 +156,17 @@ according to video
 <a href="https://www.youtube.com/watch?v=H4dGpz6cnHo"><img src="https://i.ytimg.com/vi/H4dGpz6cnHo/sddefault.jpg" width="600" height="450"/></a>
 
 What I Like or introduced by freinds.
+
+## 00. Editor's study tips.
+<a herf="https://youtu.be/STD6YDL8Zj0?si=8XY2qc-CQ7PH7VVH"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGf5iUvPybj2SE_UH9lZzMefHwp0WdJ9d9fL09O-ezjf_NxmXMiu_hbkNuvJLWF9txouXFkSqd-QiDIpxUCVCY2HDfemsRdAEJxHb3Bp4xjdhOFCyikRXAsR5Ex2-8QRmQwQ-hHXDTcN_Z/s1600/eye_ganseihirou_book_man.png">
+Click this image
+according to video
+1. Sleep well. (up 7hours)
+2. Attention to class (important!!)
+3. When you write note, draw some pictures for pay effective study.
+4. Watch a note or listen podcast(like radio or youtube). during exercise time or remain time etc... 
+5. breaking time is very important. (40min study or work, 20min)
+6. ~~listen your favoric music regularly wwwwwwwwww (It relive my stress)~~
+
 ***
+
