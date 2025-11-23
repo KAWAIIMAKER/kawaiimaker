@@ -9,7 +9,7 @@
 # 01. Setting
 Before making video, You have to define `Video's resolution`, `Frame per second(FPS)`, `Color Space`.
 
-<img src="https://raw.githubusercontent.com/AHMUMAL/mmu_badasemi/refs/heads/main/assets/Sequence%20Set.png" width="600" height="800" >
+<img src="https://github.com/user-attachments/assets/6051a127-e8ae-4095-9d8f-d00923314c03" width="600" height="800" >
 
 **_`Video resolution🎬`_**
 - ♡ 3840x2160 4K UHD ♡: High resolution. required high device spec.
