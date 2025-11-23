@@ -138,8 +138,6 @@ Save the offset for the f/x value you set. Use when you want to add the same eff
 
 ## ~~00. Editor's Junk box~~
 
-<a href="https://youtu.be/Q_o6qiK2tFk?si=SpvtNlEYzOTjj-po"><img src="https://i.ytimg.com/vi/0Bqa2VLYY-M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBl93wJqEgNzBefOyJuPYFKvXh89Q" width="600" height="800"></a>
-**Role model #1**
 <a href="https://www.youtube.com/watch?v=13P0n2yyr9I"><img src="https://cutiestreet.asobisystem.com/static/fcopen/contents/top_image/1351/c639be549c1f8d66b01f4a8b56f152c9.jpeg" width="600" height="800"></a>
 **CUTIE STREET**
 <a href="https://www.youtube.com/watch?v=OUHVRWdVQCI"><img src="https://i.redd.it/why-do-russians-make-their-tanks-jump-doesnt-it-damage-the-v0-7frgeq07kxzb1.jpg?width=5184&format=pjpg&auto=webp&s=7035d96807ea3893626f0aefaa87af92f499ef4f" width="600" height="800"></a>
