@@ -107,7 +107,7 @@ In general, it is an essential element for video editing,
 but you will think a lot about how to start at first, and how to get them.
 For those of you who are new to video editing, I am sharing the link to the FX organization drive I have collected since 2019.
 
-[GDrive (For only mmu_badasemi members)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+[GDrive (email to me)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
 
 [Green Screen memes](https://greenscreenmemes.com/)
 
