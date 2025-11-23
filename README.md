@@ -50,26 +50,26 @@ Non-important clips should be less than 5 secs!
 
 <img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800" >
 
-**_`font✍️`_** 
+**_`1. font✍️`_** 
 
 Select the font type (see reference) and adjust the size of the font size.
 Select font type (see above) and adjust font size according to mood.(60pt for 1080p, 120pt for 4K)
 You can also use highlighting effects such as bold or italic. 
 You can also change font alignment according to situations.
 
-**_`color🎨`_** 
+**_`2. color🎨`_** 
 
 Change the color of the letter itself.
 
-**_`line🖼️`_** 
+**_`3. line🖼️`_** 
 
 Change the color of the edges of the letters. Adjust the thickness so that the colors of the letters are not covered!!
 
-**_`background⬜`_**
+**_`4. background⬜`_**
 
 As you can see in the picture, a box that appears behind the handwriting. Adjust the color, transparency, etc. according to the situation.
 
-**_`shadow◼️`_** 
+**_`5. shadow◼️`_** 
 
 creates a three-dimensional effect by giving a slight angle and distance. 
 It has various effects, such as placing it at the bottom to give a shading effect, or matching it with the border color to make the character shine.
