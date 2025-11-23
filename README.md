@@ -57,6 +57,24 @@ Select font type (see above) and adjust font size according to mood.(60pt for 10
 You can also use highlighting effects such as bold or italic. 
 You can also change font alignment according to situations.
 
+**_`color🎨`_** 
+
+Change the color of the letter itself.
+
+**_`line🖼️`_** 
+
+Change the color of the edges of the letters. Adjust the thickness so that the colors of the letters are not covered!!
+
+**_`background⬜`_**
+
+As you can see in the picture, a box that appears behind the handwriting. Adjust the color, transparency, etc. according to the situation.
+
+**_`shadow◼️`_** 
+
+creates a three-dimensional effect by giving a slight angle and distance. 
+It has various effects, such as placing it at the bottom to give a shading effect, or matching it with the border color to make the character shine.
+
+
 ## 02-1-1.**_Recommended Font (KR,JP,EN)_**
 - General subtitles (Gothic, Serif):
 
@@ -80,24 +98,6 @@ You can also change font alignment according to situations.
 | --- | --- |
 | KR |Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
 | JP |DokiDoki font|
-
-
-**_`color🎨`_** 
-
-Change the color of the letter itself.
-
-**_`line🖼️`_** 
-
-Change the color of the edges of the letters. Adjust the thickness so that the colors of the letters are not covered!!
-
-**_`background⬜`_**
-
-As you can see in the picture, a box that appears behind the handwriting. Adjust the color, transparency, etc. according to the situation.
-
-**_`shadow◼️`_** 
-
-creates a three-dimensional effect by giving a slight angle and distance. 
-It has various effects, such as placing it at the bottom to give a shading effect, or matching it with the border color to make the character shine.
 
 
 ## 02-2. Sound/Visual Effect (SFX, VFX)
