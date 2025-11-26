@@ -6,6 +6,9 @@
 > 
 > The recommendation setting is marked with a heart(♡).
 
+>  [!NOTE]
+> This is about how to edit video and add effcts.
+
 # 01. Setting
 Before making video, You have to define `Video's resolution`, `Frame per second(FPS)`, `Color Space`.
 
@@ -36,17 +39,23 @@ Before making video, You have to define `Video's resolution`, `Frame per second(
 - P3 D65 HLG: very high efficientcy. but too premature.
 - (*🎨8bit can express 256^3 color but 10Bit can express 1024^3 color.)
 
+
+**_`Editor's Recommand`_**
+- Vlog & Documentary Video: 4K - 30FPS - Rec. 709 10bit
+- Cinematic: 4K - 24FPS - PQ (HDR 10bit)
+- Shortform(shorts, reels, tiktok): 1080x1920(세로) - 30~60FPS - Rec. 709 10bit
+
 # 02. Clips
 Include main subtitles, main video, main image.
 Non-important clips should be less than 5 secs! 
 
 ## 02-1. Subtitles or Texts
-**_Recommand Subtitle Position_** - Based on x,y coordinates
+> **_Recommand Subtitle Position_** - Based on x,y coordinates
 - 4K: 1920x1944
 - 1080p: 960x972
 - *When the length is divided into 10 equal parts, it is placed in the first compartment from the bottom.
 
-**_Subtitle Design_**
+> **_Subtitle Design_**
 
 <img src="https://github.com/AHMUMAL/mmu_badasemi/blob/main/assets/Subtitle%20Design.png" width="600" height="800" >
 
@@ -76,29 +85,41 @@ It has various effects, such as placing it at the bottom to give a shading effec
 
 
 ## 02-1-1.**_Recommended Font (KR,JP,EN)_**
-- General subtitles (Gothic, Serif):
+
+Korean & ENG font sources:
+- [눈누](https://noonnu.cc/)
+- [fontmeme](https://fontmeme.com/ko/)
+- [GoogleFonts](https://fonts.google.com/)
+
+Japanese Font sources:
+- [BOOTH](https://booth.pm/)
+- [FreeJapaneseFonts](https://www.freejapanesefont.com/)
+- [Yamanaka Design](https://ymnk-design.com/font-2/)
+
+***  
+> General subtitles (Gothic, Serif):
 
 | Country | Font |
 | --- | --- |
-| KR | BM Font Package, Cafe24 Fonts, Gmarket Sans, Noto sans KR, S-Core Dream, Wanted Sans KR, 굴림, 제주한라산체 |
-|JP|DeraSukoGothic, LineSeedJP, Pretendard|
+| KR | Cafe24 Fonts, Gmarket Sans, Noto sans KR, Pretendard, S-Core Dream, Wanted Sans KR, 굴림, 제주한라산체 |
+|JP| Dela Gothic One, DeraSukoGothic, GenEiPOPle, LineSeedJP, Pretendard, しっぽり太ゴシック,|
 ***
 
-- VLOG, Interview Subtitles (Design font):
+> VLOG, Interview Subtitles (Design font):
 
 | Country | Font |
 | --- | --- |
-| KR |DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
-| JP |BuildingTracks(ビルの谷間と高架下),FafoSans, komadori, PopRum Kiwi Telop, Umeboshi Font, しっぽり太ゴシック, 夏蝉丸ゴシック|
+| KR | DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
+| JP | BuildingTracks(ビルの谷間と高架下), FafoSans, Hachi Maru Pop, Kiwi Maru, komadori, Pop Rum Cute, PopRum Kiwi Telop, Potta One, Umeboshi Font, あかずきんポップ, どきどきファンタジア, 夏蝉丸ゴシック|
 ***
 
-- Gaming Subtitles:
+> Gaming Subtitles:
 
 | Country | Font |
 | --- | --- |
-| KR |Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
-| JP |DokiDoki font|
-
+| KR | BM Font Package, Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
+| JP | Best10-FONT, DokiDoki font|
+***
 
 ## 02-2. Sound/Visual Effect (SFX, VFX)
 
@@ -107,19 +128,29 @@ In general, it is an essential element for video editing,
 but you will think a lot about how to start at first, and how to get them.
 For those of you who are new to video editing, I am sharing the link to the FX organization drive I have collected since 2019.
 
-[GDrive (email to me)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+- [GDrive (email to me)](https://drive.google.com/drive/folders/1hYij15dUIne6kz8dYn7V4KYMO1YjThe_?usp=drive_link)
+- [Green Screen memes](https://greenscreenmemes.com/)
+- [Sound Effect Collection](https://www.myinstants.com/ko/index/kr/)
 
-[Green Screen memes](https://greenscreenmemes.com/)
+> **_How to insert FX_**
 
-[Sound Effect Collection](https://www.myinstants.com/ko/index/kr/)
+<img src="https://mblogthumb-phinf.pstatic.net/MjAxODEwMTFfODAg/MDAxNTM5MjQwNDg1Nzk0.3-4EbVhxWdgZBEKgLNrCg6TqvM7Ro9lHMY2I8KIaZ-0g.1GZSR4ETjT76BjAizAZGyNPaI0w0MtRy7ZTK83nqAggg.GIF.hanbyul2010/%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9A%A9.gif?type=w800" width="600" height="800" >
 
 
-**_Transition_**
-**_(*tip: Cut out silent scenes or sections you don't need)_**
+> **_Transition_**
+
+<img src="https://blog.kakaocdn.net/dna/kCR0x/btqIvDCEpAF/AAAAAAAAAAAAAAAAAAAAAFtG-_oCiI7aHeDZ9CgEThfkgdyFOterUyoLMYRR-3qC/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=hJ3Em98wRnCGkOYXIrp73QbT4tc%3D" width="600" height="800" >
+
+> [!TIP]
+> **_(*tip: Cut out silent scenes or sections you don't need)_**
+
 The conversion effect of a video clip. It makes the video very natural and smooth. From simply turning, blurring, or turning over the screen, to the movie effect, the lens effect, the cross effect, and so on.
 [example](https://www.youtube.com/watch?v=p6L_2c0PThM)
 
-**_Keyframe_**
+> **_Keyframe_**
+
+<img src="https://github.com/user-attachments/assets/40254a03-668e-4f89-b6d2-bf2bf292c113" width="600" height="800" >
+
 - `3 secs or less:`
 0:00: Vis 0 / 0:45: Vis 100 / end-0:15 (ex: 2:45 ): Vis 100 / end (ex: 3:00): Vis 0
 
@@ -130,7 +161,7 @@ You can add other effect such as zooming, rotating, animating while vis(visibili
 If you template them, your work will be accelerate🔥🔥🔥
 When you add short memes like 'Tralalero tralala', You don't need to add these effect.
 
-**_Presets_**
+> **_Presets_**
 
 Save the offset for the f/x value you set. Use when you want to add the same effect.
 [export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
