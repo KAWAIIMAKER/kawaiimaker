@@ -102,7 +102,7 @@ Japanese Font sources:
 | Country | Font |
 | --- | --- |
 | KR | 굴림체, 본고딕 (Noto Sans), 부크크 명조, 순바탕, 에스코어드림, 페이퍼로지, G마켓 산스, Pretendard,  Yoon 윤명조|
-| JP | ***GenEi POPle***, Noto Serif Japanese, PretendardJP, TAZUGANE GOTHIC, しっぽり太ゴシック|
+| JP | ***GenEi POPle***, Noto Serif Japanese, PretendardJP, しっぽり太ゴシック|
 ***
 
 > VLOG, Interview Subtitles (Design font):
