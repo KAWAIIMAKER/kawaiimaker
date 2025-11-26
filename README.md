@@ -164,8 +164,8 @@ When you add short memes like 'Tralalero tralala', You don't need to add these e
 > **_Presets_**
 
 Save the offset for the f/x value you set. Use when you want to add the same effect.
-[export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
-[import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
+- [export](https://www.youtube.com/watch?v=nDHrgSSLb-I)
+- [import](https://www.youtube.com/watch?v=P9TBNyfx4kU)
 
 ## ~~00. Editor's Junk box~~
 
