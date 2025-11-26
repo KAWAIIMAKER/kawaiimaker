@@ -101,8 +101,8 @@ Japanese Font sources:
 
 | Country | Font |
 | --- | --- |
-| KR | Cafe24 Fonts, Gmarket Sans, Noto sans KR, Pretendard, S-Core Dream, Wanted Sans KR, 굴림, 제주한라산체 |
-|JP| Dela Gothic One, DeraSukoGothic, GenEiPOPle, LineSeedJP, Pretendard, しっぽり太ゴシック,|
+| KR | DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
+| JP | ***BuildingTracks(ビルの谷間と高架下)***, FafoSans, Hachi Maru Pop, ***Kiwi Maru***, komadori, ***Pop Rum Cute***, ***PopRum Kiwi Telop***, Potta One, ***Umeboshi Font***, あかずきんポップ, どきどきファンタジア, ***夏蝉丸ゴシック***|
 ***
 
 > VLOG, Interview Subtitles (Design font):
@@ -110,14 +110,14 @@ Japanese Font sources:
 | Country | Font |
 | --- | --- |
 | KR | DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
-| JP | BuildingTracks(ビルの谷間と高架下), FafoSans, Hachi Maru Pop, Kiwi Maru, komadori, Pop Rum Cute, PopRum Kiwi Telop, Potta One, Umeboshi Font, あかずきんポップ, どきどきファンタジア, 夏蝉丸ゴシック|
+| JP | ***BuildingTracks(ビルの谷間と高架下)***, FafoSans, Hachi Maru Pop, ***Kiwi Maru***, komadori, ***Pop Rum Cute***, ***PopRum Kiwi Telop***, Potta One, ***Umeboshi Font***, あかずきんポップ, どきどきファンタジア, ***夏蝉丸ゴシック***|
 ***
 
 > Gaming Subtitles:
 
 | Country | Font |
 | --- | --- |
-| KR | BM Font Package, Black Han Sans, BM JUA, CookieRun, 넥슨 메이플스토리, DNF BitBit, NEO 둥근모, One Mobile Pop, SandBox 어그로, TMON 몬소리 Black|
+| KR | ***BM Font Package***, ***Black Han Sans***, BM JUA, CookieRun, ***넥슨 메이플스토리***, DNF BitBit, NEO 둥근모, One Mobile Pop, ***SandBox 어그로***, TMON 몬소리 Black|
 | JP | Best10-FONT, DokiDoki font|
 ***
 
