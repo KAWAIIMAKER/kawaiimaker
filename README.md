@@ -101,8 +101,8 @@ Japanese Font sources:
 
 | Country | Font |
 | --- | --- |
-| KR | DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
-| JP | ***BuildingTracks(ビルの谷間と高架下)***, FafoSans, Hachi Maru Pop, ***Kiwi Maru***, komadori, ***Pop Rum Cute***, ***PopRum Kiwi Telop***, Potta One, ***Umeboshi Font***, あかずきんポップ, どきどきファンタジア, ***夏蝉丸ゴシック***|
+| KR | 굴림체, 본고딕 (Noto Sans), 부크크 명조, 에스코어드림, 페이퍼로지, G마켓 산스, Pretendard,  Yoon 윤명조|
+| JP |  ***DelaSukoGothic***, ***GenEi POPle***, Noto Serif Japanese, PretendardJP|
 ***
 
 > VLOG, Interview Subtitles (Design font):
@@ -110,7 +110,7 @@ Japanese Font sources:
 | Country | Font |
 | --- | --- |
 | KR | DXMSubtitles, EF Diary, Sandoll 미생, 더페이트샵 잉크립퀴드체, 봉숭아 틴트, 온글잎 (박다현체, 의연체), 이서윤체|
-| JP | ***BuildingTracks(ビルの谷間と高架下)***, FafoSans, Hachi Maru Pop, ***Kiwi Maru***, komadori, ***Pop Rum Cute***, ***PopRum Kiwi Telop***, Potta One, ***Umeboshi Font***, あかずきんポップ, どきどきファンタジア, ***夏蝉丸ゴシック***|
+| JP | ***BuildingTracks(ビルの谷間と高架下)***, Dela Gothic One, FafoSans, Hachi Maru Pop, ***Kiwi Maru***, komadori, ***Pop Rum Cute***, ***PopRum Kiwi Telop***, Potta One, ***Umeboshi Font***, あかずきんポップ, どきどきファンタジア, ***夏蝉丸ゴシック***|
 ***
 
 > Gaming Subtitles:
