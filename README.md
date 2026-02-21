@@ -2,7 +2,7 @@
 <a href="https://youtu.be/mBw3qzf4s18?si=KMJJ--Isms_H-sKs"><img src="https://i.ytimg.com/vi/ZZ5LpwO-An4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGH8gXigbMA8=&rs=AOn4CLBxOdApsQdTvg-YYAaJAi4w7k5GOg" width="800" height="600" ></a>
 > **Ver 260222.01**
 > 
-> **Made by KAWAIIMAKER** / MMU Junior (3rd) Student.
+> **Made by @wjs9.22** / MMU Junior (3rd) Student.
 > 
 > The recommendation setting is marked with a heart(♡).
 
